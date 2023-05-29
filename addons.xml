@@ -117,6 +117,21 @@
     <news></news>
     </extension>
 </addon>
+<addon id="script.thx.artwork" version="1.0.2" name="[COLORred]THX 1138 Artwork[/COLOR]" provider-name="">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.19.0"/>-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary>THX Artwork</summary>
+        <description>THX Artwork</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
 <addon id="plugin.video.youtube" name="YouTube" version="7.0.2~alpha6" provider-name="anxdpanic, bromix">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
