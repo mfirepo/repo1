@@ -140,7 +140,7 @@
   </extension>
   
 </addon>
-<addon id="script.module.bolt" name="[COLORwhite]Bolt Module[/COLOR]" version="1.5" provider-name="">
+<addon id="script.module.bolt" name="[COLORwhite]Bolt Module[/COLOR]" version="1.7" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
