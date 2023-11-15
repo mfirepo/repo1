@@ -312,6 +312,30 @@
   </assets>
   </extension>
 </addon>
+<addon id="repository.halcyon" name="[COLORlime][I]Halcyon Repo[/I][/COLOR]" version="1.0" provider-name="">
+<extension point="xbmc.addon.repository" name="[COLORyellow]Halcyon Repo[/COLOR]">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/mfirepo/repo1/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/mfirepo/repo1/master/addons.xml.md5</checksum>
+			<datadir zip="false">https://raw.githubusercontent.com/mfirepo/repo1/master/plugins/</datadir>
+		</dir>
+
+		<dir>
+		    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Halcyon Repo</summary>
+		<description></description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
 <addon id="plugin.video.youtube" name="YouTube" version="7.0.2.2+unofficial.1" provider-name="anxdpanic, bromix">
   <requires>
     <import addon="xbmc.python" version="3.0.1"/>
