@@ -114,7 +114,7 @@
         </news>
     </extension>
 </addon>
-<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="3.2">
+<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="3.7a">
   <requires>
     <import addon="script.module.six" version="0.0.1"/>
 	<import addon="script.module.requests"/>
