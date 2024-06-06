@@ -116,7 +116,7 @@
   </extension>
   
 </addon>
-<addon id="plugin.video.mayhem" name="[COLORwhite]Mayhem[/COLOR]" version="1.6" provider-name="">
+<addon id="plugin.video.mayhem" name="[COLORwhite]Mayhem[/COLOR]" version="1.7" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -264,8 +264,8 @@
   </assets>
   </extension>
 </addon>
-<addon id="repository.halcyon" name="[COLORlime][I]Halcyon Repo[/I][/COLOR]" version="1.0" provider-name="">
-<extension point="xbmc.addon.repository" name="[COLORyellow]Halcyon Repo[/COLOR]">
+<addon id="repository.madforit" name="[COLORlime][I]Mad For It Repo[/I][/COLOR]" version="1.1" provider-name="">
+<extension point="xbmc.addon.repository" name="[COLORyellow]Mad For It Repo[/COLOR]">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/mfirepo/repo1/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mfirepo/repo1/master/addons.xml.md5</checksum>
@@ -277,9 +277,15 @@
 		    <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 		</dir>
+		
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Halcyon Repo</summary>
+		<summary>Mad For It Repo</summary>
 		<description></description>
 		<platform>all</platform>
 		<assets>
