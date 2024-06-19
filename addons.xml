@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="1.7" provider-name="">
+<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="2.0" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -213,7 +213,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.free" name="[COLORred][I]Free[/I][/COLOR]" version="18.10.23" provider-name="">
+<addon id="plugin.video.free" name="[COLORred][I]Free[/I][/COLOR]" version="19.06.24" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
