@@ -213,7 +213,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.free" name="[COLORred][I]Free[/I][/COLOR]" version="19.06.24" provider-name="">
+<addon id="plugin.video.free" name="[COLORred][I]Free[/I][/COLOR]" version="17.01.25" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
