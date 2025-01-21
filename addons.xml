@@ -504,7 +504,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.youtube" name="YouTube" version="7.2.0+beta.3" provider-name="anxdpanic, bromix, MoojMidge">
+<addon id="plugin.video.youtube" name="YouTube" version="7.2.0+beta.4" provider-name="anxdpanic, bromix, MoojMidge">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.27.1"/>
@@ -540,6 +540,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
         <summary lang="eo">Aldonaĵo por YouTube</summary>
         <summary lang="es_ES">Complemento para YouTube</summary>
         <summary lang="es_MX">Complemento para YouTube</summary>
+        <summary lang="et_EE">YouTube lisamoodul</summary>
         <summary lang="fi_FI">YouTube-lisäosa</summary>
         <summary lang="fr_FR">Plugin pour YouTube</summary>
         <summary lang="he_IL">תוסף עבור YouTube</summary>
