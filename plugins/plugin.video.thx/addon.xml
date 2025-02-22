@@ -7,7 +7,7 @@
         <import addon="script.module.resolveurl" />
         <import addon="script.module.requests" />
         <import addon="script.module.thxscrapers" />
-		<import addon="script.module.cocoscrapers" />
+	<import addon="script.module.cocoscrapers" />
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
         <import addon="script.module.simplejson" />
