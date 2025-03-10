@@ -242,7 +242,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.ftasport" name="FTA Sport" version="1.5" provider-name="">
+<addon id="plugin.video.ftasport" name="FTA Sport" version="1.6" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
