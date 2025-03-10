@@ -540,6 +540,84 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
   
 </addon>
+<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.2.6">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.quicksilver.artwork" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.quicksilverscrapers" />
+        <import addon="script.module.cocoscrapers" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="script.module.simplejson" />
+		<import addon="plugin.video.youtube" optional="true" />
+    </requires>
+    <extension library="quicksilver.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <summary lang="en_GB">Quicksilver Media</summary>
+        <description lang="en_GB">Quicksilver Kodi 19+</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <forum />
+        <website />
+        <source />
+        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>
+        See Changelog on Tools menu
+        </news>
+    </extension>
+</addon>
+<addon id="script.module.quicksilverscrapers" name="[COLORsilver]Quicksilver Scrapers[/COLOR]" version="0.0.5" provider-name="Quicksilver">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="script.module.simplejson" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py">
+        <provides>executable</provides>
+    </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <summary lang="en">Quicksilver Scrapers Module</summary>
+            <description>Quicksilver Scrapers Module Scrape common video host for URL's to be playable simplifying addon development of video plugins requiring multi video hosts.</description>
+                <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <news></news>
+    </extension>
+</addon>
+<addon id="script.quicksilver.artwork" version="0.0.5" name="[COLORsilver]Quicksilver Artwork[/COLOR]" provider-name="Quicksilver">
+    <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Quicksiler Artwork</summary>
+        <description>Provides Quicksillver Artwork</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
 <addon id="plugin.video.youtube" name="YouTube" version="7.2.0+beta.5" provider-name="anxdpanic, bromix, MoojMidge">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
