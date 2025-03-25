@@ -376,7 +376,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <email></email>
   </extension>
 </addon>
-<addon id="script.module.jetextractors" name="JetExtractors" version="3.0.7b" provider-name="THE TEAM">
+<addon id="script.module.jetextractors" name="JetExtractors" version="3.0.8" provider-name="THE TEAM">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.beautifulsoup4" />
@@ -507,7 +507,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.30" provider-name="CocoJoe">
+<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.31" provider-name="CocoJoe">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
