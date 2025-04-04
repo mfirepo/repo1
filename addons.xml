@@ -512,7 +512,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.tvfree" name="TV Free" version="0.0.2" provider-name="X">
+<addon id="plugin.video.tvfree" name="TV Free" version="0.0.3" provider-name="X">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
