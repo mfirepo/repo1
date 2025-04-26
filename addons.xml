@@ -405,7 +405,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q[/COLOR]" version="2.9" provider-name="">
+<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q-2.0[/COLOR]" version="3.0" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -418,13 +418,14 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <import addon="script.module.pyamf" />
     <import addon="script.module.pycryptodome" optional="true" />
     <import addon="script.module.microjenscrapers" optional="true" />
-    <import addon="script.module.pytz" />
+   <import addon="script.module.pytz" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB"></summary>
+	<description lang="en_GB">The Content In The Addon Is Available Freely On The Internet-Nothing Is Stored Locally-Any Issues, Clear The Cache</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
