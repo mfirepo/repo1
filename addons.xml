@@ -537,7 +537,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <license>GPL-2.0-or-later</license>
   </extension>
 </addon>
-<addon id="plugin.video.dlv2" name="DaddyLive V2" version="0.0.7" provider-name="X">
+<addon id="plugin.video.dlv2" name="DaddyLive V2" version="0.0.8" provider-name="X">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
