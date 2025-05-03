@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.madforit" name="[COLORlime][I]Mad For It Repo[/I][/COLOR]" version="1.5" provider-name="">
+<addon id="repository.madforit" name="[COLORlime][I]Mad For It Repo[/I][/COLOR]" version="1.6" provider-name="">
 <extension point="xbmc.addon.repository" name="[COLORyellow]Mad For It Repo[/COLOR]">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/mfirepo/repo1/master/addons.xml</info>
@@ -19,9 +19,9 @@
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
 		<dir>
-            <info compressed="false">https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
