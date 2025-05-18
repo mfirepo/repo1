@@ -634,7 +634,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="1.2" provider-name="">
+<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="1.3" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -652,7 +652,8 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Everthing in This Addon Is Available Freely On The Internet-Nothing is Stored Locally</summary>
+    <summary lang="en_GB"></summary>
+	<description lang="en_GB">No Streams Are Stored Locally-All Are Freely Available On The Internet-A Debrid Service Is Required For Magneto And Ultraflix</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
