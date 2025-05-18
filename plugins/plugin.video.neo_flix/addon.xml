@@ -8,9 +8,9 @@
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
     <import addon="script.module.microjenscrapers" />
-	<import addon="plugin.video.easyflix" />
-	<import addon="plugin.video.magneto" />
-	<import addon="plugin.video.ultra_flix" />
+    <import addon="plugin.video.easyflix" />
+    <import addon="plugin.video.magneto" />
+    <import addon="plugin.video.ultra_flix" />
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
