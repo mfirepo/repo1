@@ -634,7 +634,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="1.1" provider-name="">
+<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="1.2" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -643,6 +643,9 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
     <import addon="script.module.microjenscrapers" />
+    <import addon="plugin.video.easyflix" />
+    <import addon="plugin.video.magneto" />
+    <import addon="plugin.video.ultra_flix" />
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
