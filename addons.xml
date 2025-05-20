@@ -89,13 +89,16 @@
         </news>
     </extension>
 </addon>
-<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz V2[/I][/COLOR]" provider-name="" version="25.03.08">
+<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz V2[/I][/COLOR]" provider-name="" version="25.05.20">
   <requires>
         <import addon="script.module.six" version="0.0.1"/>
 		<import addon="script.module.requests"/>
 		<import addon="script.module.resolveurl" />
 		<import addon="script.module.beautifulsoup4"/>
 		<import addon="plugin.video.youtube" />
+		<import addon="plugin.video.easyflix" />
+		<import addon="plugin.video.magneto" />
+		<import addon="plugin.video.ultra_flix" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
