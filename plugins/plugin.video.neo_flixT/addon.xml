@@ -8,10 +8,10 @@
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
     <import addon="script.module.microjenscrapers" />
-	<import addon="script.module.easyflix" />
-	<import addon="script.module.magneto" />
-	<import addon="script.module.ultra_flix" />
-	<import addon="script.module.retro4k" />
+    <import addon="script.module.easyflix" />
+    <import addon="script.module.magneto" />
+    <import addon="script.module.ultra_flix" />
+    <import addon="script.module.retro4k" />
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
