@@ -692,8 +692,8 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 <addon id="script.module.easyflix"
-       name="[COLORred]EasyFlix[/COLOR]"
-       version="1.0.0"
+       name="[COLORred]EasyFlix-Module[/COLOR]"
+       version="1.0.1"
        provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
