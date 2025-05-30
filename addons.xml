@@ -692,20 +692,20 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 <addon id="script.module.easyflix"
-       name="[COLORred]EasyFlix-Module[/COLOR]"
-       version="1.0.1"
+       name="[COLORred]EasyFlix Module[/COLOR]"
+       version="1.1"
        provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.resolveurl"/>
-	<import addon="script.module.requests" />
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">A Simple, One-Click, Lightweight, Playlist Addon. No Streams Are Stored Locally-All Are Available Freely On The Internet</description>
+	<description lang="en_GB"></description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
@@ -716,20 +716,20 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 <addon id="script.module.magneto"
-       name="[COLORgold]Magneto-Module[/COLOR]"
-       version="1.0"
+       name="[COLORgold]Magneto Module[/COLOR]"
+       version="1.1"
        provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.resolveurl"/>
-	<import addon="script.module.requests" />
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">Magnets Baby!!! A Debrid Service Is Required. No Streams Are Stored Locally-All Are Available Freely On The Internet</description>
+	<description lang="en_GB"></description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
@@ -740,20 +740,20 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 <addon id="script.module.retro4k"
-       name="[COLORwhite]Retro 4K-Module[/COLOR]"
-       version="1.0"
+       name="[COLORwhite]Retro 4K Module[/COLOR]"
+       version="1.1"
        provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.resolveurl"/>
-	<import addon="script.module.requests" />
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">Retro 4K Movies-A Debrid Service Is Required. No Streams Are Stored Locally-All Are Available Freely On The Internet</description>
+	<description lang="en_GB"></description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
@@ -764,20 +764,20 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 <addon id="script.module.ultra_flix"
-       name="[COLORgold]UltraFlix-Module[/COLOR]"
-       version="1.0"
+       name="[COLORgold]UltraFlix Module[/COLOR]"
+       version="1.1"
        provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.resolveurl"/>
-	<import addon="script.module.requests" />
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">4K Movies, A Debrid Service Is Required. No Streams Are Stored Locally-All Are Available Freely On The Internet</description>
+	<description lang="en_GB"></description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
