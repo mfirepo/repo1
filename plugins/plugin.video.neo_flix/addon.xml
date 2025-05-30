@@ -1,8 +1,8 @@
 <addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="3.0" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.resolveurl"/>
-		<import addon="script.module.requests" />
+	<import addon="script.module.resolveurl"/>
+	<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
