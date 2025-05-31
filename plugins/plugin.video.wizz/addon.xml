@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="25.05.31">
+<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="25.05.31a">
   <requires>
         <import addon="script.module.six" version="0.0.1"/>
-	<import addon="script.module.requests"/>
-	<import addon="script.module.resolveurl" />
-	<import addon="script.module.beautifulsoup4"/>
-	<import addon="plugin.video.youtube" />
+		<import addon="script.module.requests"/>
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.beautifulsoup4"/>
+		<import addon="plugin.video.youtube" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
