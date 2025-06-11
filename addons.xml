@@ -679,7 +679,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.program.halguiwiz" name="[COLORlime]Halcyon GUI Wizard[/COLOR]" version="1.3" provider-name="Special thanks to [COLOR red]F[COLOR white]T[COLOR blue]G[/COLOR], Slam, Funsterbe, The Hermit">
+<addon id="plugin.program.halguiwiz" name="[COLORlime]Halcyon GUI Wizard[/COLOR]" version="1.4" provider-name="Special thanks to [COLOR red]F[COLOR white]T[COLOR blue]G[/COLOR], Slam, Funsterbe, The Hermit">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.kodi-six" version="0.0.5"/>
