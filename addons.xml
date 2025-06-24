@@ -51,7 +51,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.2">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.3">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <!--<import addon="script.thx.metadata" />-->
@@ -173,7 +173,7 @@
     <news></news>
     </extension>
 </addon>
-<addon id="script.module.thxscrapers" name="[COLORred]THX 1138 Scrapers[/COLOR]" version="1.2.0" provider-name="">
+<addon id="script.module.thxscrapers" name="[COLORred]THX 1138 Scrapers[/COLOR]" version="1.2.1" provider-name="">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <import addon="script.module.beautifulsoup4" />
@@ -200,7 +200,7 @@
     <news></news>
     </extension>
 </addon>
-<addon id="script.thx.artwork" version="1.0.2" name="[COLORred]THX 1138 Artwork[/COLOR]" provider-name="">
+<addon id="script.thx.artwork" version="1.0.3" name="[COLORred]THX 1138 Artwork[/COLOR]" provider-name="">
     <requires>
         <!--<import addon="xbmc.python" version="2.19.0"/>-->
     </requires>
