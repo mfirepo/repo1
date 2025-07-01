@@ -623,7 +623,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.obsidian" name="[COLORgold]Obsidian[/COLOR]" version="1.0" provider-name="">
+<addon id="plugin.video.obsidian" name="[COLORgold]Obsidian[/COLOR]" version="1.0.1" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 	<import addon="script.module.resolveurl"/>
@@ -634,7 +634,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">Free Movies</description>
+	<description lang="en_GB">Free Movies-Nothing Is Stored Locally-The Content Of This Addon Is All Available Freely Online</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
