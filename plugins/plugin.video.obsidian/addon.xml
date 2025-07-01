@@ -1,8 +1,8 @@
-<addon id="plugin.video.obsidian" name="[COLORgold]Obsidian[/COLOR]" version="1.0.1" provider-name="">
+<addon id="plugin.video.obsidian" name="[COLORgold]Obsidian Movies[/COLOR]" version="1.0.2" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.resolveurl"/>
-	<import addon="script.module.requests" />
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
     </requires>
 	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
