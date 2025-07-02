@@ -623,7 +623,10 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.obsidian" name="[COLORgold]Obsidian Movies[/COLOR]" version="1.0.2" provider-name="">
+<addon id="plugin.video.easyflix"
+       name="[COLORred]EasyFlix[/COLOR]"
+       version="1.3.3"
+       provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 	<import addon="script.module.resolveurl"/>
@@ -634,7 +637,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-	<description lang="en_GB">Free Movies-Nothing Is Stored Locally-The Content Of This Addon Is All Available Freely Online</description>
+	<description lang="en_GB">Lightweight, Playlist Addon. No Streams Are Stored Locally-All Are Available Freely On The Internet</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
