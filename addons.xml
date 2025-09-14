@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="11.11.25a" provider-name="">
+<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="09.14.25" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
