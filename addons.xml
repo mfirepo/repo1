@@ -89,7 +89,7 @@
         </news>
     </extension>
 </addon>
-<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="25.09.14">
+<addon id="plugin.video.wizz" name="[COLORlime][I]The Wizz[/I][/COLOR]" provider-name="" version="25.09.17">
   <requires>
         <import addon="script.module.six" version="0.0.1"/>
 	<import addon="script.module.requests"/>
@@ -561,7 +561,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <license>GPL-2.0-or-later</license>
   </extension>
 </addon>
-<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="3.2.62" provider-name="">
+<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="3.2.64" provider-name="">
     <requires>
     <import addon="xbmc.python" version="3.0.0"/>
 	<import addon="script.module.resolveurl"/>
