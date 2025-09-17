@@ -381,7 +381,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <email></email>
   </extension>
 </addon>
-<addon id="script.module.jetextractors" name="JetExtractors" version="3.2.4" provider-name="THE TEAM">
+<addon id="script.module.jetextractors" name="JetExtractors" version="3.2.5" provider-name="THE TEAM">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.beautifulsoup4" />
@@ -405,7 +405,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q-2.0[/COLOR]" version="4.6" provider-name="">
+<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q-2.0[/COLOR]" version="4.8" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
