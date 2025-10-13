@@ -381,27 +381,20 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q-2.0[/COLOR]" version="5.8" provider-name="">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing"/>
-    <import addon="script.module.unidecode" />
-    <import addon="script.module.tzlocal" />
-    <import addon="script.module.jetextractors" />
-    <import addon="script.module.inputstreamhelper" />
-    <import addon="script.module.resolveurl"/>
-    <import addon="script.module.pyamf" />
-    <import addon="script.module.pycryptodome" optional="true" />
-    <import addon="script.module.microjenscrapers" optional="true" />
-	<import addon="script.module.pytz" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
+<addon id="plugin.video.forkq" name="[COLORwhite]Fork Q-2.0[/COLOR]" version="6.2" provider-name="">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.resolveurl"/>
+		<import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="inputstream.adaptive" version="2.6.0"/>
+    </requires>
+	 <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB"></summary>
-	<description lang="en_GB">The Content In The Addon Is Available Freely On The Internet-Nothing Is Stored Locally</description>
+    <summary lang="en"></summary>
+	<description lang="en_GB">No Streams Are Stored Locally-All Are Available Freely On The Internet-A Mixture Of Free And Debrid Links</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL-2.0-or-later</license>
