@@ -1,4 +1,4 @@
-<addon id="plugin.video.forkq" name="[COLORwhite]Fork-Q[/COLOR]" version="6.0.2" provider-name="">
+<addon id="plugin.video.forkq" name="[COLORwhite]Fork-Q[/COLOR]" version="6.4" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
