@@ -357,7 +357,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <email></email>
   </extension>
 </addon>
-<addon id="script.module.jetextractors" name="JetExtractors" version="3.2.9" provider-name="THE TEAM">
+<addon id="script.module.jetextractors" name="JetExtractors" version="3.3.0" provider-name="THE TEAM">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.beautifulsoup4" />
