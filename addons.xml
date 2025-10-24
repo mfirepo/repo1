@@ -600,7 +600,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.movies_24" name="[COLORred]Movies 24[/COLOR]" version="1.0.0" provider-name="">
+<addon id="plugin.video.movies_24" name="[COLORred]Movies 24[/COLOR]" version="1.0.2" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
