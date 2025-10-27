@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.2">
+<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.4">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.quicksilver.artwork" />
@@ -19,13 +19,13 @@
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en_GB">Quicksilver Media</summary>
-        <description lang="en_GB">Quicksilver Kodi 19+</description>
+        <description lang="en_GB">Thanks For Everything cMan</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
         <forum />
         <website />
         <source />
-        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!-Thanks For Everything cMan</disclaimer>
+        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
