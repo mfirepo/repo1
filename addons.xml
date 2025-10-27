@@ -522,7 +522,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.0">
+<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.2">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.quicksilver.artwork" />
@@ -548,7 +548,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
         <forum />
         <website />
         <source />
-        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
+        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!-Thanks For Everything cMan</disclaimer>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
