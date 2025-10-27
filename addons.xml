@@ -389,7 +389,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
         <import addon="script.module.inputstreamhelper" />
         <import addon="inputstream.adaptive" version="2.6.0"/>
     </requires>
-	 <extension point="xbmc.python.pluginsource" library="default.py">
+	 <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
