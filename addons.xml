@@ -585,6 +585,21 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <news></news>
     </extension>
 </addon>
+<addon id="script.quicksilver.artwork" version="0.0.6" name="[COLORsilver]Quicksilver Artwork[/COLOR]" provider-name="Quicksilver">
+    <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Quicksiler Artwork</summary>
+        <description>Provides Quicksillver Artwork</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
 <addon id="plugin.video.youtube" name="YouTube" version="7.2.0+beta.5" provider-name="anxdpanic, bromix, MoojMidge">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
