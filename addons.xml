@@ -27,7 +27,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.5">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.6">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <!--<import addon="script.thx.metadata" />-->
@@ -519,7 +519,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.5">
+<addon id="plugin.video.quicksilver" name="[COLOR white]Quicksilver[/COLOR]" provider-name="Quicksilver" version="0.3.6">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.quicksilver.artwork" />
