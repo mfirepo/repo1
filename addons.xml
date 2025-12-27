@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="25.11.07" provider-name="">
+<addon id="plugin.video.halcyon" name="[COLORlime]Halcyon[/COLOR]" version="25.12.27" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />
@@ -9,8 +9,8 @@
     <import addon="script.module.inputstreamhelper" />
     <import addon="script.module.resolveurl"/>
     <import addon="script.module.microjenscrapers" />
-    <import addon="plugin.video.youtube" />
-    <import addon="plugin.video.dailymotion_com" />
+	<import addon="plugin.video.youtube" />
+	<import addon="plugin.video.dailymotion_com" />
     <!--<import addon="name" />-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
