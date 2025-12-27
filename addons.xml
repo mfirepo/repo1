@@ -27,7 +27,7 @@
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.6">
+<addon id="plugin.video.thx" name="[COLORred]THX 1138[/COLOR]" provider-name="" version="1.6.8">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
         <!--<import addon="script.thx.metadata" />-->
@@ -35,12 +35,12 @@
         <import addon="script.module.resolveurl" />
         <import addon="script.module.requests" />
         <import addon="script.module.thxscrapers" />
-	<import addon="script.module.cocoscrapers" />
+		<import addon="script.module.cocoscrapers" />
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
         <import addon="script.module.simplejson" />
-	<import addon="script.module.beautifulsoup4"/>
-	<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.beautifulsoup4"/>
+		<import addon="plugin.video.youtube" optional="true" />
     </requires>
     <extension library="thx.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
