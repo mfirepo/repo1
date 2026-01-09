@@ -300,7 +300,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.forkq" name="[COLORyellow]Fork-Q[/COLOR]" version="8.2.6" provider-name="">
+<addon id="plugin.video.forkq" name="[COLORyellow]Fork-Q[/COLOR]" version="8.2.8" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -452,7 +452,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
     <license>GPL-2.0-or-later</license>
   </extension>
 </addon>
-<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="3.3.28" provider-name="">
+<addon id="plugin.video.neo_flix" name="[COLORlime]Neo Flix[/COLOR]" version="3.3.30" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>
